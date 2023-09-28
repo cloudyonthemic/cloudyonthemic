@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Haseeb</h1>
 <h3 align="center">a passionate Front-End Web Developer and Graphic Designer based in Iraq 🇮🇶. At just 20 years young, I'm dedicated to creating visually stunning websites and solving complex problems through code.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudyonthemic&label=Profile%20views&color=0e75b6&style=flat" alt="cloudyonthemic" /> </p>
+
 - 🔭 I’m currently working on **Many different projects**
 
 - 🌱 I’m currently learning **Backend**
@@ -54,3 +56,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudyonthemic&show_icons=true&locale=en&layout=compact" alt="cloudyonthemic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudyonthemic&show_icons=true&locale=en" alt="cloudyonthemic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cloudyonthemic&" alt="cloudyonthemic" /></p>

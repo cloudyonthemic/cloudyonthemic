@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Haseeb</h1>
-<h3 align="center">a passionate Front-End Web Developer and Graphic Designer based in Iraq 🇮🇶. At just 20 years young, I'm dedicated to creating visually stunning websites and solving complex problems through code.</h3>
+<h3 align="center">a passionate Front-End Web Developer and Graphic Designer based in Iraq 🇮🇶.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudyonthemic&label=Profile%20views&color=0e75b6&style=flat" alt="cloudyonthemic" /> </p>
 

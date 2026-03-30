@@ -1,21 +1,24 @@
-# Hey, Welcome or Whatever
+# 👋 Hi, I'm Ibrahim Haseeb
+### Full Stack Developer | Software Engineer
 
-This is my GitHub. I put stuff here sometimes. Most of it probably doesn't work.
+---
 
-- I code things
-- Sometimes I forget to update stuff
-- If you see something broken, it's intentional
-- I have around 47 unfinished projects and counting
+## 🚀 About Me
+I like shipping impactful things and I love drinking sprite
 
+* 🌍 Based in Duhok, Iraq
+* ✉️ Contact: ibrahimrhaseeb@gmail.com
+* 💼 Open to: Full-time roles & high-impact collaborations
 
-## About Me
+---
 
-I like sprite and naps. Sometimes I write code. That's all you get.
+## 🛠 Technical Toolbox
 
-## Contact
+### **Frontend & Mobile**
+* **Mobile:** **Flutter & Dart, React Native & Expo, Swift**
+* **Web:** React.js, Next.js, TypeScript, Tailwind CSS
 
-Nope.
+### **Backend & Database**
+* **Languages:** Node.js, Python, Go
+* **Databases:** PostgreSQL, MongoDB/Firebase, Redis (Caching)
 
-## Fun Fact
-
-There is no fun fact. This section exists purely to disappoint you.
